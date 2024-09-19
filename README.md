@@ -33,3 +33,4 @@
         </div>
         <div class="slides fade">
             <img src="
+<p>Xxxtentacion is one of the best rappers</p>
